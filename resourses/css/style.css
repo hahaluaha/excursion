@@ -8,8 +8,8 @@ body {
 
 .cta {
 
-color: aquamarine;
-font-size: 16px;
+   color: aquamarine;
+   font-size: 16px;
 
 }
 
@@ -29,27 +29,26 @@ h2 {
 
 p {
 
-  font-size: 21px;
-  color: gray;
-  text-align: center;
+   font-size: 21px;
+   color: gray;
+   text-align: center;
 
 }
 
 .footer {
 
-  text-align: right;
-  font-family: Verdana;
-  font-size: 21px;
-  color: grey;
-
+   text-align: right;
+   font-family: Verdana;
+   font-size: 21px;
+   color: grey;
 
 }
 
 .center {
 
-margin-left: auto;
-margin-right: auto;
-display: block;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
 
 }
 
@@ -58,5 +57,5 @@ h5 {
   color: grey;
   text-align:right;
   font-size: 21px;
-  
+
 }
